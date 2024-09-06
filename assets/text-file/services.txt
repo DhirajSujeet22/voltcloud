@@ -1,0 +1,124 @@
+our services  sections 
+1. vdi 
+ Virtualized Desktop infrastructure 
+  Secure Endpoint and Custom Data Center Solutions
+2. remote work solutions
+Remote work and  & virtual desktop Packages .
+3. cdi
+Centralized desktop infrastructure 
+Secure Endpoint and Custom Data Center Solutions
+4. cvdi 
+centralized and virtualized desktop infrastructure 
+5. Zero Trust Architecture 
+Understanding the Endpoints Role int the Zero trust 
+
+
+
+ why choose volt colud section 
+ In leftside once form is place and right side 6 box are place and each box have some unique content 
+  -- rightside box column main 
+
+  1. Centralized Management:
+
+Simplified IT management by centralizing desktops on servers.
+Easier updates and maintenance as changes are made on the server side.
+2. Security:
+
+Data is stored on the server, reducing the risk of data loss from stolen or damaged devices.
+Centralized control over security policies and data access.
+3. Scalability:
+
+Easily add or remove desktops as needed.
+Ideal for organizations with fluctuating workforce sizes.
+4.Cost Efficiency:
+
+Reduces the need for high-end hardware on the client side.
+Potentially lowers operational costs through centralized management and reduced downtime.
+ 
+ 5. Best services guarantee
+ At VoltCloud, we guarantee the best services with cutting-edge cloud solutions, ensuring unmatched reliability, performance, and security for all your business needs.
+
+6. Flexible payment plans 
+VoltCloud offers flexible payment plans tailored to your business, ensuring you get the best cloud services without breaking your budget.
+
+
+//refrance website link  
+1. https://cloudshope.com/#/
+2. https://www.vultr.com/
+3. https://clearcube.com/centralized-desktop-infrastructure-cdi/
+
+
+
+//why voltcloud  
+Voltcloud specialises in GPU-accelerated VDI and offers hosted cloud
+services from two hosted data centre locations (India, Europe and North America)Product flagships include heavy-duty Cloud Workstations (Desktop-as-aService) and App-streaming (Application-as-a-Service) from one single and
+unified platform.
+Private GPU Cloud by VoltCloud brings its cutting-edge GPU-powered
+technology, cloud optimisation expertise and hardware flexibility in an onpremises package for high computing needs. Organisations will benefit from
+guaranteed performance, exceptional user experience, cost optimisation,
+speed in IT transformation and greater security
+
+ 1. traditional VDI img
+ 2. cloud computing img
+
+
+
+
+ //our products section  
+ 1. C-75 aero client products 
+  zero client C75 is a specialized solution for accessing
+Windows Multipoint Server™, Userful Multiseat™ linux and
+Monitors Anywhere. Without local operating system and storage, C75 presents server desktop and applications perfectly to users
+once it is powered on and connected to the server.
+
+
+Specialized zero client
+Excellent accessing device specially designed for Windows MultiPoint Server™, Userful MultiSeat™ Linux and Monitors anywhere. 02 Low cost solution
+Low price, low power consumption and no maintenance guarantee the low cost. 03 High performance
+Full-HD multimedia and good quality
+
+
+2. C-71 Zero client 
+zero client C71 is a specialized for PCoIP solution, through
+which you can achieve unified management of high-end graphics
+workstation designed to render 3D graphic solutions with the PCOIP
+host card
+
+Specialized for PCOIP solution
+Excellent performance in 3D graphics,by working and interacting with host card in
+server
+02 High performance
+Support 1920x1200 high resolution based on the high performance graphic engine
+and pixel processing core
+
+
+//industries dropdown
+Government Agencies:
+Local, state, and federal bodies, including the Corps of Engineers.
+
+Defense:
+Armed forces, Department of Defense, national security, and private contractors.
+
+Manufacturing:
+Stock management, logistics, factory operations, and industrial environments.
+
+Training & Education:
+Educational institutions, higher learning, continuing education, and educational centers.
+
+Contact Centers & BPOs:
+Customer service stations, supervisors, workforce administration, scheduling, and quality assurance.
+
+Command & Control Centers:
+Strategic operations centers, command posts, and critical operations facilities.
+
+Architecture, Engineering, and Construction:
+Confidential information, intellectual property, architectural design, construction, technology, and engineering.
+
+Retail & Commercial:
+Solutions for small to medium enterprises and large corporations.
+
+Financial Services:
+Investment firms, banks, law offices, and insurance companies.
+
+Media & Entertainment:
+Broadcast stations, publishing houses, and film production studios.
